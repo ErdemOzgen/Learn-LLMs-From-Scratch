@@ -18,3 +18,8 @@ Video links for explain [paper](https://arxiv.org/abs/1706.03762)
 # Generative AI for Begineers 
 
 * [Link](https://github.com/microsoft/generative-ai-for-beginners/tree/main)
+
+
+# Generative AI with LLMs [Deeplearning AI]((https://www.deeplearning.ai/courses/generative-ai-with-llms/))
+
+* [Notes](./Generative-AI-with-LLMs/)
