@@ -34,3 +34,7 @@ Video links for explain [paper](https://arxiv.org/abs/1706.03762)
 # Generative AI with LLMs [Deeplearning AI]((https://www.deeplearning.ai/courses/generative-ai-with-llms/))
 
 * [Notes](./Generative-AI-with-LLMs/)
+
+
+# Build a Large Language Model (From Scratch)
+
